@@ -1,2 +1,2 @@
 # misc
-Miscelanea
+Miscelaneous small notebooks and solutions
