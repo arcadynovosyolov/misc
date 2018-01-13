@@ -1,2 +1,2 @@
 # misc
-Miscelaneous small notebooks and solutions
+Miscelaneous small notebooks and solutions (in Russian)
